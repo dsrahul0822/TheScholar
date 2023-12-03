@@ -1,0 +1,27 @@
+git config --global user.name ""
+git config --global user.email ""
+git confit --list
+git config user.name
+git config user.email
+
+cd (Change directory)
+pwd (Present working directory)
+ls (List of files) 
+
+git status (It checks if the folder is git repo or not)
+
+git init (It initializes the folder as git repo) 
+
+git status	
+If there are any files in the folder those files are in the working directory
+
+git add --a (This will move the files to the staging area) 
+
+git commit -m "Initial Files"
+This command will move the files to the repo 
+
+git log 
+
+
+ssh-keygen -t ed25519 -C "your_email@example.com" 
+This command will help to create the SSH Key
